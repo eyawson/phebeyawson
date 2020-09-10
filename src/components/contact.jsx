@@ -117,10 +117,18 @@ export class Contact extends Component {
         <div id="footer">
           <div className="container text-center">
             <p>
-              &copy; 2020 Issaaf Kattan React Land Page Template. Design by{" "}
-              <a href="http://www.templatewire.com" rel="nofollow">
-                TemplateWire
-              </a>
+
+              &copy; 2020
+        <span> Built by her husband | </span>
+        Cover owned by
+        <a
+                href="http://kyanitepublishing.com/product/she-cried-wolf/"
+                class="kyanite"
+                rel="noopener noreferrer"
+                target="_blank"
+                aria-label="link to owner of background image"
+              > kyanite </a>
+              publishing
             </p>
           </div>
         </div>

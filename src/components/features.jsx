@@ -5,22 +5,14 @@ export class features extends Component {
     return (
       <div id="features" className="text-center">
         <div className="container">
-          <div className="col-md-10 col-md-offset-1 section-title">
-            <h2>Features</h2>
-          </div>
-          <div className="row">
-            {this.props.data
-              ? this.props.data.map((d,i) => (
-                  <div  key={`${d.title}-${i}`} className="col-xs-6 col-md-3">
-                    {" "}
-                    <i className={d.icon}></i>
-                    <h3>{d.title}</h3>
-                    <p>{d.text}</p>
-                  </div>
-                ))
-              : "Loading..."}
+          <div className="section-title">
+            <h2>She Cried Wolf</h2>
+            <p>
+              Tyese is known for being reserved and quiet, but when she accidentally peels back the facade from her family secrets she must rise up to lead her friends and family in a war against an ancient evil. While fighting for the future of all she holds dear, she must also battle ghosts from her past and her changing identity. Not just anyone can be The Alpha, and she never expected to be anything but human.
+          </p>
           </div>
         </div>
+
       </div>
     );
   }
