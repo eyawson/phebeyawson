@@ -21,7 +21,7 @@
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
+            "icon": "fas fa-book-open",
             "name": "Lorem ipsum dolor",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
@@ -54,62 +54,43 @@
 
     ],
     "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
+            "img": "img/testimonials/t.jpg",
             "text": "\"I had no idea what I would find insie She Cried Wolf. I was thrilled to discover everything I enjoy about a good YA fantasy story. This tales has it all- characters with real emotions, a believable heroine, and an imaginative plot that left me crying for more. Phage Yawson is a very promising new author and I expect many more thrilling stories from her.\"",
             "name": "Terri"
         },
         {
-            "img": "img/testimonials/02.jpg",
+            "img": "img/testimonials/d.jpg",
             "text": "\"She Cried Wolf is an amazing read of good vs. evil! It’s so much more than a shape-shifter story. There are twists and turns throughout! Tyese learns of who she is and what she’s capable of and you find yourself cheering her on!! There are so many great lines in this book! I don’t want to give any spoilers so I’ll share the one line that not only gives Tyese hope, but as you read it, it gives you hope. “You have everything you need within you.” I can NOT recommend this book enough. I can NOT wait for the second book.\"",
             "name": "Dizzy"
         },
         {
-            "img": "img/testimonials/05.jpg",
+            "img": "img/testimonials/j.jpg",
             "text": "\"This novella was a mix of fantasy and coming-of-age. Tyese is graduating from high school and finding out who she is in a tremendous, extraordinary way (I won't say more, as I don't want to give away any spoilers). She also learns of some rather important and life-altering secrets her family has kept from her. This novella is fast - paced(at time whip - lash fast), YA fantasy full of surprises and twists.A great story for teens and adults who love strong characters with a huge dose of fantasy!\"",
             "name": "Jim Kanso"
         },
         {
-            "img": "img/testimonials/03.jpg",
+            "img": "img/testimonials/r.jpg",
             "text": "\"The writer of this book is so talented. This story was so intriguing and exciting to read. I look forward to seeing what else she has to offer as an author.\"",
             "name": "ReeRee"
         },
         {
-            "img": "img/testimonials/04.jpg",
+            "img": "img/testimonials/c.jpg",
             "text": "\"A true page turner! A strong heroine with superhero powers that is pulled into a supernatural plot to destroy earths balance had me on the edge for the whole book. I cannot wait to read what happens next, Yawson really knows how to keep me guessing!\"",
             "name": "Carlos E. Turnbull Jr"
         },
         {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Thrilled and honoured to have won a copy of She Cried Wolf, I nonetheless dove in with limited expectations simply because I rarely read either young adult literature or fantasy. As they say, though, Phebe Yawson had me at hello, or should I say at a rainy graduation day. Immediately, Yawson sets the scene, introduces us to her main character Tyese, and takes us flying through the pages.Tyese has been raised by her grandmother along with Tavaris, a cousin; a not uncommon situation.But things are not as they seem on the surface.Her mother is distant, her father is lost, but a monstrous secret lies behind the family’ s pain. And Tyese is stronger— much stronger— than she thinks. While Yawson’ s writing style is deceptively smooth and simple, she employs the perfect words to evoke emotions and describe scenes.She also(unlike many fantasy / paranormal writers) manages to restrain herself to a specific set of creatures, allowing for the suspension of disbelief.Beasts do not mix with vampires, thank goodness. Among the bits I loved: “Her howl of victory reverberated through the house and echoed out into the woods.More howls joined hers from the beasts the witch had summoned, fading as they fled into the distance.” There are a few spots that require a little attention, but these are minor.In all, Phebe Yawson has created a novella of roaring pace and human feeling, conflict, and power.\"",
-            "name": "Joanne Paulson"
-        }
-    ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "img": "img/testimonials/b.jpg",
+            "text": "\"I really loved the book .. seeing tyese grow into a beautiful confident warrior was great. The storyline was intriguing I couldn't put it down. Very inspiring and funny!!! I believe this could be a movie.\"",
+            "name": "BookLover"
         }
     ],
     "Contact": {
         "address": "Brick City, New Jersey ",
-        "email": "phebeyawson@gmail.com",
+        "email": "Coming Soon",
         "facebook": "https://www.facebook.com/powerndreams/",
         "twitter": "https://twitter.com/powerndreams",
-        "instagram": "https://www.instagram.com/phebeyawson/"
+        "instagram": "https://www.instagram.com/phebeyawson/",
+        "amazon": "https://www.amazon.com/She-Cried-Wolf-Phebe-Yawson-ebook/dp/B07WVQGFXJ/ref=sr_1_1?crid=125VXZBNBWW1&keywords=she+cried+wolf+phebe+yawson&qid=1568994090&sprefix=she+cried+wolf+p%2Caps%2C136&sr=8-1"
     },
     "Features": [{
             "icon": "fa fa-comments-o",

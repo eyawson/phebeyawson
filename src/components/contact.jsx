@@ -9,7 +9,7 @@ export class Contact extends Component {
             <div className="col-md-8">
               <div className="row">
                 <div className="section-title">
-                  <h2>Get In Touch</h2>
+                  <h2>Got a message?</h2>
                   <p>
                     Please fill out the form below to send us an email and we
                     will get back to you as soon as possible.
@@ -48,7 +48,7 @@ export class Contact extends Component {
                       id="message"
                       className="form-control"
                       rows="4"
-                      placeholder="Message"
+                      placeholder="Under Construction"
                       required
                     ></textarea>
                     <p className="help-block text-danger"></p>
@@ -93,19 +93,24 @@ export class Contact extends Component {
                   <ul>
                     <li>
                       <a
-                        href={this.props.data ? this.props.data.facebook : "/"}
+                        href={this.props.data ? this.props.data.facebook : "/"} target="_blank" rel="noopener noreferrer"
                       >
                         <i className="fa fa-facebook"></i>
                       </a>
                     </li>
                     <li>
-                      <a href={this.props.data ? this.props.data.twitter : "/"}>
+                      <a href={this.props.data ? this.props.data.twitter : "/"} target="_blank" rel="noopener noreferrer">
                         <i className="fa fa-twitter"></i>
                       </a>
                     </li>
                     <li>
-                      <a href={this.props.data ? this.props.data.youtube : "/"}>
-                        <i className="fa fa-youtube"></i>
+                      <a href={this.props.data ? this.props.data.instagram : "/"} target="_blank" rel="noopener noreferrer">
+                        <i className="fa fa-instagram"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href={this.props.data ? this.props.data.amazon : "/"} target="_blank" rel="noopener noreferrer">
+                        <i className="fa fa-shopping-cart"></i>
                       </a>
                     </li>
                   </ul>
@@ -120,7 +125,7 @@ export class Contact extends Component {
 
               &copy; 2020
         <span> Built by her husband | </span>
-        Cover owned by
+        Book cover owned by
         <a
                 href="http://kyanitepublishing.com/product/she-cried-wolf/"
                 class="kyanite"

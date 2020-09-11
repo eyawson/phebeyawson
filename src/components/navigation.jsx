@@ -30,6 +30,12 @@ export class Navigation extends Component {
             <ul className="nav navbar-nav navbar-right">
 
               <li>
+                <a href="https://www.amazon.com/She-Cried-Wolf-Phebe-Yawson-ebook/dp/B07WVQGFXJ/ref=sr_1_1?crid=125VXZBNBWW1&keywords=she+cried+wolf+phebe+yawson&qid=1568994090&sprefix=she+cried+wolf+p%2Caps%2C136&sr=8-1" rel="noopener noreferrer"
+                  target="_blank" className="page-scroll">
+                  Buy Now
+                </a>
+              </li>
+              <li>
                 <a href="#features" className="page-scroll">
                   She Cried Wolf
                 </a>
