@@ -188,7 +188,7 @@ hr {
 
 .section-title p {
 	font-size: 18px;
-	color: #fff;
+	color: #ffffff;
 }
 
 .btn-custom {
@@ -254,11 +254,11 @@ a:focus,
 }
 
 .intro h1 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Inknut Antiqua', serif;
 	color: #fff;
 	font-size: 82px;
 	font-weight: 700;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	margin-top: 0;
 	margin-bottom: 10px;
 }
@@ -346,11 +346,11 @@ header .intro-text {
 }
 
 #about img {
-	width: 520px;
+	max-width: 520px;
 	margin-top: 10px;
 	background: #fff;
 	border-right: 0;
-	box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
+	box-shadow: 0 10px 8px -6px #3a2101;
 }
 
 #about p {
@@ -699,6 +699,31 @@ label {
 
 #footer a:hover {
 	border-bottom: 2px solid #666e72;
+}
+
+aside {
+	display: block;
+	max-width: 90%;
+	max-height: 700px;
+	overflow-y: scroll;
+}
+
+.poetry {
+	color: #3a2101;
+}
+
+@media (max-width: 480px) {
+	/* body {
+		background-color: #3a2101;
+	} */
+
+	.intro {
+		background: url(../img/intro-bg-sm.jpg) no-repeat;
+	}
+
+	.intro h1 {
+		font-family: 'Inknut Antiqua', serif;
+	}
 }
 
 @media (max-width: 768px) {

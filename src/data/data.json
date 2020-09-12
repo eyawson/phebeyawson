@@ -21,38 +21,22 @@
         ]
     },
     "Services": [{
-            "icon": "fas fa-book-open",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        }
-
-
-    ],
+        "name": "Poetry",
+        "line1": "\n“What if we all suddenly looked up",
+        "line2": "Took the chains off our brains",
+        "line3": "Used our power to link up ",
+        "line4": "We could change the whole system",
+        "line5": "If we stop fighting ourselves",
+        "line7": "Use all that energy to fight the wealth",
+        "line8": "That stain that drains and clings to our spiraling downfall",
+        "line9": "That forgets all for one and one for all",
+        "line10": "The things that we could be",
+        "line11": "If we closed our eyes to see",
+        "line12": "But they don’t care about us",
+        "line13": "We were intentionally left out of the constitution",
+        "line14": "While they were fighting for their freedom",
+        "line15": "We were forced to plow their fields..."
+    }],
     "Testimonials": [{
             "img": "img/testimonials/t.jpg",
             "text": "\"I had no idea what I would find insie She Cried Wolf. I was thrilled to discover everything I enjoy about a good YA fantasy story. This tales has it all- characters with real emotions, a believable heroine, and an imaginative plot that left me crying for more. Phage Yawson is a very promising new author and I expect many more thrilling stories from her.\"",
@@ -86,7 +70,8 @@
     ],
     "Contact": {
         "address": "Brick City, New Jersey ",
-        "email": "Coming Soon",
+        "phone": "Send DMs",
+        "email": "Send DMs",
         "facebook": "https://www.facebook.com/powerndreams/",
         "twitter": "https://twitter.com/powerndreams",
         "instagram": "https://www.instagram.com/phebeyawson/",

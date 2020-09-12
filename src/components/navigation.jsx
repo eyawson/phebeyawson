@@ -53,7 +53,7 @@ export class Navigation extends Component {
               </li>
               <li>
                 <a href="#services" className="page-scroll">
-                  Services
+                  Social
                 </a>
               </li>
               <li>
