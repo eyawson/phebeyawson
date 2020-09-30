@@ -33,8 +33,6 @@ jobs:
       - image: circleci/node:13.8.0
     steps:
       - checkout
-      # - attach_workspace:
-      #     at: ~/
       - run_yarn_install
       - run: npm run test
   analyze:
@@ -42,8 +40,6 @@ jobs:
       - image: circleci/node:13.8.0
     steps:
       - checkout
-      # - attach_workspace:
-      #     at: ~/
       - run_yarn_install
       - run: |
           npm audit fix
