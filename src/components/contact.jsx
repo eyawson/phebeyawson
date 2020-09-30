@@ -124,14 +124,22 @@ export class Contact extends Component {
             <p>
 
               &copy; 2020
-        <span> Built by her husband | </span>
+        <span>
+                <a
+                  href="https://ebow.me"
+                  class="kyanite"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  aria-label="phebe's website builder's webpage"
+                > Built by her husband </a>
+                 | </span>
         Book cover owned by
         <a
                 href="http://kyanitepublishing.com/product/she-cried-wolf/"
                 class="kyanite"
                 rel="noopener noreferrer"
                 target="_blank"
-                aria-label="link to owner of background image"
+                aria-label="link to kyanite publishing"
               > kyanite </a>
               publishing
             </p>

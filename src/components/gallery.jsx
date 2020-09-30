@@ -18,6 +18,28 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
+                      href="https://youtu.be/cwwIJ5u2b4s"
+                      target="blank"
+                      title="Power of Hello"
+                      data-lightbox-gallery="gallery1"
+                    >
+                      <div className="hover-text">
+                        <h4>Interview on Teaser in Twenty</h4>
+                      </div>
+                      <img
+                        src="img/portfolio/interview.png"
+                        className="img-responsive"
+                        alt="Book event to market the book Power of Hello"
+                      />{" "}
+                    </a>{" "}
+                  </div>
+                </div>
+              </div>
+              <div className="col-sm-6 col-md-4 col-lg-4">
+                <div className="portfolio-item">
+                  <div className="hover-bg">
+                    {" "}
+                    <a
                       href="img/portfolio/powerof.jpg"
                       target="blank"
                       title="Power of Hello"
@@ -42,16 +64,16 @@ export class Gallery extends Component {
                     <a
                       href="img/portfolio/goethe.jpg"
                       target="blank"
-                      title="Geothe event"
+                      title="Goethe event"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Geothe baking event- Ghana</h4>
+                        <h4>Goethe baking event- Ghana</h4>
                       </div>
                       <img
                         src="img/portfolio/goethe-sm.jpg"
                         className="img-responsive"
-                        alt="Serving cake at Geothe Institute in Ghana"
+                        alt="Serving cake at Goethe Institute in Ghana"
                       />{" "}
                     </a>{" "}
                   </div>
