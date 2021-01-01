@@ -123,7 +123,7 @@ export class Contact extends Component {
           <div className="container text-center">
             <p>
 
-              &copy; 2020
+              &copy; 2021
         <span>
                 <a
                   href="https://ebow.me"
